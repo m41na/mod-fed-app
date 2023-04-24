@@ -1,3 +1,3 @@
 import('./bootstrap');
 
-console.log("Bootstraping container module");
+console.log("Bootstraping container module...");
