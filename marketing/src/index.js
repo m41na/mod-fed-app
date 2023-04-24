@@ -1,3 +1,3 @@
 import('./bootstrap');
 
-console.log('Boostrapping marketing module');
+console.log('Boostrapping marketing module...');
